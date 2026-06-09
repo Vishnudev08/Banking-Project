@@ -1,2 +1,2 @@
-DOA java file updated by Dev1
-  new change added by Dev1
+DOA java file updated by Dev2
+  changes were made by dev2
